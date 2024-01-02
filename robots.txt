@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /.js$
+Disallow: /.css$
+
+Sitemap: https://a26.top/sitemap.xml
